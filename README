@@ -12,8 +12,11 @@ Group Info:
 Project Description
 -------------------
 In this project, we have outlined aspects of the field of swarm distributed intelligence, focusing on the types of interactions that can occur in such systems. To explore the challenges, we have outlined a general platform considering the various design and protocol aspects that can be used to develop any specific application in the field of swarm robotics. The challenge as system designers is to create and make use of the appropriate system that best address the specific constraints and challenges of the application at hand.
+
 Developing multi-agent systems with self interested agents with a large behavioral repertoire is a great challenge. In this system, we have described a design and implementation of an information sharing system performed by autonomous robots. . Various phases of the algorithm have been implemented to be run on swarms of robots. Some provide basic functionality, such as dispersion, localization and mapping, information sharing and task distribution. In these systems, robots are aware of each other and share their respective goal of searching objects in given environment, thus by working together and sharing the information with each other can help the other members better achieve their individual goals.
+
 Experimental results showed that the robot system with our path finding ,object sensing and grid solving along with communicating algorithm can effectively  collect information about the arena they explore and objects of their interest. They  simultaneously  perform pick and place operation  in complex ground environment and avoid collision with the obstacles.
+
 In these system autonomous robots follows the grid as per the algorithm to pick the object or block kept at any random co-ordinates without colliding by communicating with each other and place it in the desired position.  Communication is an important issue to accomplish the coordination of tasks in a swarm of robots. The most important factor through which the robots will complete their task is information sharing which can be done by communicating with each other.
 
 
